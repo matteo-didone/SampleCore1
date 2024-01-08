@@ -1,0 +1,15 @@
+/Users/matteodidone/VS Code Projects/SampleCore1/bin/Debug/net8.0/SampleCore1
+/Users/matteodidone/VS Code Projects/SampleCore1/bin/Debug/net8.0/SampleCore1.deps.json
+/Users/matteodidone/VS Code Projects/SampleCore1/bin/Debug/net8.0/SampleCore1.runtimeconfig.json
+/Users/matteodidone/VS Code Projects/SampleCore1/bin/Debug/net8.0/SampleCore1.dll
+/Users/matteodidone/VS Code Projects/SampleCore1/bin/Debug/net8.0/SampleCore1.pdb
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/SampleCore1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/SampleCore1.AssemblyInfoInputs.cache
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/SampleCore1.AssemblyInfo.cs
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/SampleCore1.csproj.CoreCompileInputs.cache
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/SampleCore1.sourcelink.json
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/SampleCore1.dll
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/refint/SampleCore1.dll
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/SampleCore1.pdb
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/SampleCore1.genruntimeconfig.cache
+/Users/matteodidone/VS Code Projects/SampleCore1/obj/Debug/net8.0/ref/SampleCore1.dll
