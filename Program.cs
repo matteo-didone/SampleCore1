@@ -5,6 +5,5 @@ var name = Console.ReadLine();
 // Stampo un messaggio che saluta l'utente 
 Console.WriteLine("Ciao, " + name + "! Benvenuto");
 
-
 // Per avviare il progetto: dotnet run
 // Per compilare il progetto: dotnet build
