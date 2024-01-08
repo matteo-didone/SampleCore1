@@ -1,14 +1,14 @@
 {
     "configurations": [
-    {
-        "name": ".NET Core Launch (console)",
-        "type": "coreclr",
-        "request": "launch",
-        "program": "${workspaceFolder}/bin/Debug/<net8.0>/SampleConsole1.exe",
-        "args": [],
-        "cwd": "${workspaceFolder}",
-        "stopAtEntry": false,
-        "console": "externalTerminal"
-    }
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/bin/Debug/<net8.0>/SampleConsole1.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "externalTerminal"
+        }
     ]
 }
